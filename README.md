@@ -1,4 +1,4 @@
-¡Hola! 👋 Soy Ángel, un entusiasta del código en mis primeros pasos en 1º de DAM 🎓.
+¡Hola! 👋 Soy Ángel estoy en mis primeros pasos en 1º de DAM 🎓.
 Mi GitHub es el cuaderno digital donde practico, experimento y aprendo, un commit a la vez 🚀.
 
 🌱 Ahora mismo...
