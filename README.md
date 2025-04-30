@@ -1,6 +1,5 @@
 
 # ¡Hola, soy Ángel! 👨💻  
-### (El de DAM, no el de la guarda)
 
 🔨 **Actualmente construyendo**:  
 - Ejercicios de Java que compilan... *a veces* ☕  
@@ -17,4 +16,3 @@
 ⚡ **Dato**:  
 Mi primer "Hola Mundo" sobrevivió 3.7 segundos antes de un NullPointerException. 🏆  
 
-![GIF de un gato tecleando](https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif)  
