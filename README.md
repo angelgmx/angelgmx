@@ -9,7 +9,6 @@
 🐛 **Habilidades especiales**:  
 - Borrar código para que funcione ✨  
 - Debuggear con print("Aqui llego") 🕵️  
-- Subir proyectos a GitHub 2 minutos antes del deadline 🚨  
 
 📂 **Ejercicios TOP de clase**: (Ya los pondre...)
 
