@@ -1,5 +1,5 @@
 
-# ¡Hola, soy Ángel! 👨💻  
+# ¡Hola, soy Ángel! 👀 💻  
 
 🔨 **Actualmente construyendo**:  
 - Ejercicios de Java que compilan... *a veces* ☕  
