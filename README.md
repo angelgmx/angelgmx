@@ -21,8 +21,8 @@ Creo que la tecnología debe ser una herramienta para mejorar procesos, resolver
 ---
 
 ### 📫 Contacto
-- 📧 **angel[tuemail]@gmail.com**  
-- 💼 [LinkedIn](https://www.linkedin.com/in/angelgmx) *(añade tu enlace aquí)*  
+- 📧 **ag.delbarrio@outlook.es**  
+- 💼 [LinkedIn](https://www.linkedin.com/in/angelgmx)
 
 ---
 
