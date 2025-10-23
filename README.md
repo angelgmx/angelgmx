@@ -7,7 +7,7 @@ Me apasiona la creación de soluciones que transforman ideas en proyectos reales
 
 ### 💻 Tecnologías y herramientas que utilizo
 - **Lenguajes:** Kotlin, Java, JavaScript, CSS, Python, SQL  
-- **Desarrollo móvil:** Android Studio, ViewBinding, Jetpack Components  
+- **Desarrollo móvil:** Android Studio(Aprendiendo).
 - **Backend / DevOps:** Docker, AWS, MySQL, APIs REST  
 - **Diseño y creatividad:** Adobe Illustrator, Photoshop  
 - **Otros:** Git, GitHub, Linux, Virtualización (Proxmox)
