@@ -16,7 +16,6 @@ Me apasiona la creación de soluciones que transforman ideas en proyectos reales
 
 ### > Objetivo
 Seguir creciendo como desarrollador y formar una base sólida para crear, en el futuro, **proyectos propios que aporten valor real a personas y empresas**.  
-Creo que la tecnología debe ser una herramienta para mejorar procesos, resolver problemas y abrir nuevas oportunidades.
 
 ---
 
