@@ -1,41 +1,33 @@
 <div align="center">
-  <img src="assets/portada.png" alt="Angel Gómez · backend developer" width="100%" />
-  <br/><br/>
-  <a href="https://www.linkedin.com/in/angelgmx"><img src="https://img.shields.io/badge/LinkedIn-angelgmx-2747D6?style=flat-square&logo=linkedin&logoColor=white&labelColor=1B1916" alt="LinkedIn" /></a>
-  <a href="mailto:ag.delbarrio@outlook.es"><img src="https://img.shields.io/badge/Email-ag.delbarrio@outlook.es-2747D6?style=flat-square&logo=maildotru&logoColor=white&labelColor=1B1916" alt="Email" /></a>
-  <img src="https://img.shields.io/badge/Madrid-España-2747D6?style=flat-square&logo=googlemaps&logoColor=white&labelColor=1B1916" alt="Madrid" />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/portada-oscura.png" />
+  <img src="assets/portada.png" alt="Hola, soy Angel · backend developer" width="100%" />
+</picture>
+
+**Backend developer que diseña APIs con TypeScript, NestJS y PostgreSQL, con la base de alguien que viene de sistemas.**
+
+<a href="https://www.linkedin.com/in/angelgmx"><img src="https://img.shields.io/badge/LinkedIn-angelgmx-2747D6?style=flat-square&logo=linkedin&logoColor=white&labelColor=1B1916" alt="LinkedIn" /></a>
+<a href="mailto:ag.delbarrio@outlook.es"><img src="https://img.shields.io/badge/Email-ag.delbarrio@outlook.es-2747D6?style=flat-square&logo=maildotru&logoColor=white&labelColor=1B1916" alt="Email" /></a>
+<img src="https://img.shields.io/badge/Madrid-España-2747D6?style=flat-square&logo=googlemaps&logoColor=white&labelColor=1B1916" alt="Madrid" />
+
 </div>
 
-## `01` Quién soy
+## <img src="assets/iconos/sobre-mi.png" width="30" align="center" alt="" /> Sobre mí
 
-Soy **Angel**, desarrollador **backend** en formación. Estudio **2º de DAM** y antes terminé **SMR**, así que vengo de redes y sistemas: entiendo lo que pasa por debajo del código.
+Estudié redes y sistemas (SMR) antes de programar, así que pienso en el código y también en la máquina donde corre. Ahora curso 2º de DAM en Madrid.
 
-Me gusta construir la parte que no se ve: **APIs, bases de datos y la lógica que hace que una aplicación funcione bien**.
+Antes de escribir una línea, decido y dejo por escrito el porqué: cada elección importante de mis proyectos tiene su ADR.
 
-## `02` Qué hago y por qué
+## <img src="assets/iconos/ahora.png" width="30" align="center" alt="" /> Ahora mismo
 
-Construyo **proyectos propios, de principio a fin, escribiendo yo el código**. Cada uno me sirve para aprender algo nuevo y para demostrar cómo trabajo:
+<sub>Noviembre de 2026</sub>
 
-- 📐 **Diseño antes de programar:** requisitos, decisiones documentadas en ADRs y el contrato de la API antes de la primera línea.
-- 🧪 **Pruebo lo que escribo:** tests automáticos desde el principio, no al final.
-- 🔀 **Trabajo como en un equipo:** ramas, pull requests y commits claros, aunque el proyecto sea mío.
-- 📖 **Documento:** para que cualquiera pueda entender el proyecto y contribuir.
+- 🛠️ **Construyendo** la API de [openecommerce](https://github.com/angelgmx/ecommerce) con NestJS: [fase 2 de 9](https://github.com/angelgmx/ecommerce/blob/main/docs/roadmap/fase-2-api.md).
+- ✅ **Último hito:** el [contrato de la API](https://github.com/angelgmx/ecommerce/blob/main/docs/arquitectura/api.md), con cada error del dominio traducido a su código HTTP.
+- 📚 **Estudiando** filtros de excepciones, tests e2e y monorepos con npm workspaces.
 
-## `03` Qué estoy aprendiendo
-
-| Ahora | Después |
-| --- | --- |
-| NestJS y diseño de APIs REST | Docker y despliegue |
-| PostgreSQL y modelado de datos | Pagos y colas de mensajes |
-| Testing con Vitest | AWS (Solutions Architect) |
-
-## `04` Mis objetivos
-
-- 🎯 **Corto plazo:** terminar la API de [`openecommerce`](https://github.com/angelgmx/ecommerce) y conseguir mi **primer puesto como desarrollador backend junior**.
-- 🚀 **Medio plazo:** diseñar sistemas que aguanten usuarios reales y certificarme en **AWS**.
-- 🌱 **Siempre:** seguir aprendiendo y crear proyectos que aporten valor real a personas y empresas.
-
-## `05` Proyectos
+## <img src="assets/iconos/proyectos.png" width="30" align="center" alt="" /> Proyectos
 
 <table>
   <tr>
@@ -46,7 +38,7 @@ Construyo **proyectos propios, de principio a fin, escribiendo yo el código**. 
       <ul>
         <li>Núcleo en TypeScript puro: <b>97 tests</b>, <b>98 % de cobertura</b></li>
         <li>API con NestJS y validación con Zod</li>
-        <li>Decisiones en ADRs y contrato de API antes del código</li>
+        <li><a href="https://github.com/angelgmx/ecommerce/tree/main/docs/adr">9 decisiones documentadas en ADRs</a> y contrato de la API antes del código</li>
       </ul>
       <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
       <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" alt="NestJS" />
@@ -68,50 +60,26 @@ Construyo **proyectos propios, de principio a fin, escribiendo yo el código**. 
   </tr>
 </table>
 
-## `06` Stack
+## <img src="assets/iconos/casos.png" width="30" align="center" alt="" /> Casos de estudio
 
-<table>
-  <tr>
-    <td><b>Lenguajes</b></td>
-    <td><img src="assets/icons/ts.png" width="38" alt="TypeScript" title="TypeScript" />&nbsp;<img src="assets/icons/js.png" width="38" alt="JavaScript" title="JavaScript" />&nbsp;<img src="assets/icons/java.png" width="38" alt="Java" title="Java" />&nbsp;<img src="assets/icons/kotlin.png" width="38" alt="Kotlin" title="Kotlin" />&nbsp;<img src="assets/icons/python.png" width="38" alt="Python" title="Python" />&nbsp;<img src="assets/icons/bash.png" width="38" alt="Bash" title="Bash" /></td>
-  </tr>
-  <tr>
-    <td><b>Backend</b></td>
-    <td><img src="assets/icons/nodejs.png" width="38" alt="Node.js" title="Node.js" />&nbsp;<img src="assets/icons/nestjs.png" width="38" alt="NestJS" title="NestJS" />&nbsp;<img src="assets/icons/vitest.png" width="38" alt="Vitest" title="Vitest" /></td>
-  </tr>
-  <tr>
-    <td><b>Datos</b></td>
-    <td><img src="assets/icons/postgres.png" width="38" alt="PostgreSQL" title="PostgreSQL" />&nbsp;<img src="assets/icons/mysql.png" width="38" alt="MySQL" title="MySQL" /></td>
-  </tr>
-  <tr>
-    <td><b>Sistemas</b></td>
-    <td><img src="assets/icons/linux.png" width="38" alt="Linux" title="Linux" />&nbsp;<img src="assets/icons/arch.png" width="38" alt="Arch Linux" title="Arch Linux" />&nbsp;<img src="assets/icons/docker.png" width="38" alt="Docker" title="Docker" />&nbsp;<img src="assets/icons/aws.png" width="38" alt="AWS" title="AWS" /></td>
-  </tr>
-  <tr>
-    <td><b>Herramientas</b></td>
-    <td><img src="assets/icons/git.png" width="38" alt="Git" title="Git" />&nbsp;<img src="assets/icons/github.png" width="38" alt="GitHub" title="GitHub" />&nbsp;<img src="assets/icons/vscode.png" width="38" alt="VS Code" title="VS Code" />&nbsp;<img src="assets/icons/androidstudio.png" width="38" alt="Android Studio" title="Android Studio" /></td>
-  </tr>
-  <tr>
-    <td><b>Diseño</b></td>
-    <td><img src="assets/icons/html.png" width="38" alt="HTML" title="HTML" />&nbsp;<img src="assets/icons/css.png" width="38" alt="CSS" title="CSS" />&nbsp;<img src="assets/icons/ps.png" width="38" alt="Photoshop" title="Photoshop" />&nbsp;<img src="assets/icons/ai.png" width="38" alt="Illustrator" title="Illustrator" /></td>
-  </tr>
-</table>
+> [!NOTE]
+> **En preparación.** Artículos cortos sobre problemas reales que he resuelto en openecommerce:
+>
+> - Diseñar el contrato de una API antes de escribir código.
+> - Por qué un cupón inválido es un `400` y no un `404`.
+> - Un núcleo de dominio que no depende del framework.
 
-## `07` Cómo trabajo
+## <img src="assets/iconos/objetivos.png" width="30" align="center" alt="" /> Objetivos
 
-```text
-01  REQUISITOS      qué tiene que hacer y qué no
-02  DECISIÓN        un ADR por cada elección importante
-03  CONTRATO        la API diseñada antes de escribirla
-04  CÓDIGO + TESTS  núcleo sin dependencias, probado
-05  PULL REQUEST    revisión antes de llegar a main
-```
+- Llevar [openecommerce](https://github.com/angelgmx/ecommerce) a producción: pagos, colas y despliegue.
+- Certificarme en **AWS Solutions Architect**.
+- Trabajar en un equipo backend donde se cuide la calidad del código.
 
-## `08` Contacto
+## <img src="assets/iconos/stack.png" width="30" align="center" alt="" /> Stack
 
-¿Hablamos? Escríbeme a **ag.delbarrio@outlook.es** o por [LinkedIn](https://www.linkedin.com/in/angelgmx).
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/stack-oscura.png" />
+  <img src="assets/stack.png" alt="Stack: TypeScript, JavaScript, Java, Kotlin, Python, Bash, Node.js, NestJS, Vitest, PostgreSQL, MySQL, Linux, Arch, Docker, AWS, Git, GitHub, VS Code, Android Studio, HTML, CSS, Photoshop e Illustrator" width="100%" />
+</picture>
 
-<div align="center">
-  <br/>
-  <sub><i>«Cada error es un paso hacia dominar este mundo».</i></sub>
-</div>
+<p align="center">📫 <b>ag.delbarrio@outlook.es</b> · <a href="https://www.linkedin.com/in/angelgmx">LinkedIn</a></p>
